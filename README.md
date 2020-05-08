@@ -11,14 +11,15 @@ A Sobriety App To Help Men Track how many days they have gone without acting out
 
 
 ## Tech Notes:
-5. USE WP RESTAPI to grab relevant content 
+5. USE WP RESTAPI to grab relevant content from Johns 180recover. 
 6. PhoneGap
 7. React Native
 8. AppPrsser but this ia paid WP Plugin.
 
 ## Helpful Resources and Links
-[GroupMe API](https://dev.groupme.com/docs/v3)
-[React Native](https://rationalappdev.com/implementing-comments-with-react-native-and-nodejs/) Commenting App
+- [GroupMe API](https://dev.groupme.com/docs/v3)
+
+- [React Native](https://rationalappdev.com/implementing-comments-with-react-native-and-nodejs/) Commenting App
 
 
 
