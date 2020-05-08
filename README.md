@@ -4,6 +4,8 @@ A Sobriety App To Help Men Track how many days they have gone without acting out
 ## Features and benefits
 1. Accountability API integration with Group Me
 2. A tracker that keeps date and time of how many days sober.
+3. Allows comments to be made in the event of a fall or relapse. 
+4. Privacy controls so only you can your designated sponsor can read the comments.
 3. Alert feature that links to accountabilit partner in case of emergeny
 4. Links to Podcast and Blogs on website
 
@@ -13,4 +15,11 @@ A Sobriety App To Help Men Track how many days they have gone without acting out
 6. PhoneGap
 7. React Native
 8. AppPrsser but this ia paid WP Plugin.
+
+## Helpful Resources and Links
+[GroupMe API](https://dev.groupme.com/docs/v3)
+[React Native](https://rationalappdev.com/implementing-comments-with-react-native-and-nodejs/) Commenting App
+
+
+
 
